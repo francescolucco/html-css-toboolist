@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  border: 0px;
+ }
+
+/* Headr style */
+
+header {
+  margin-left: 20px;
+  margin-top: 15px;
+  background-color: white;
+}
+
+.logo-boolean {
+  width: auto;
+  height: 50px;
+  vertical-align: middle;
+}
+
+.title-header {
+  font-size: 40px;
+  font-weight: 800;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
