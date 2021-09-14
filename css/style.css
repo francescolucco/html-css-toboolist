@@ -88,3 +88,44 @@ button {
 .contenitore-impegni {
   padding: 10px 40px;
 }
+
+.title-section {
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+p {
+  line-height: 30px;
+}
+
+.etichetta {
+  display: inline-block;
+  padding: 5px 11px;
+  border-radius: 15px;
+  color: white;
+  font-size: 10px;
+  line-height:12px;
+}
+
+
+.etichetta.azzurra {
+  background-color: rgb(35, 175, 240);
+}
+.etichetta.viola {
+  background-color: rgb(176, 20, 190);
+}
+.etichetta.verde.acqua {
+  background-color: rgb(28, 192, 170);
+}
+.etichetta.arancione {
+  background-color: rgb(248, 164, 29);
+}
+.etichetta.rosa {
+  background-color: rgb(240, 35, 178);
+}
+.etichetta.verde.pisello {
+  background-color: rgb(158, 201, 17);
+}
+.etichetta.azzurra {
+  background-color: rgb(35, 175, 240);
+}
