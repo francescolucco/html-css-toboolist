@@ -21,13 +21,13 @@ header {
 
 .logo-boolean {
   width: auto;
-  height: 50px;
+  height: 40px;
   vertical-align: middle;
  
 }
 
 .title-header {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 800;
   line-height: 50px;
   vertical-align: middle;
@@ -46,7 +46,7 @@ header {
 }
 
 .conteiner-pulsanti-richiesta {
-  padding: 10px 40px;
+  padding: 15px 40px;
 }
 
 
@@ -73,7 +73,6 @@ button {
   margin: 30px auto 0px;
   background-color: white;
   border-radius: 0px 0px 5px 5px;
-  padding: 10px 40px;
 }
 
 .prospect-conteiner {
@@ -86,7 +85,7 @@ button {
 }
 
 .contenitore-impegni {
-  padding: 10px 40px;
+  padding: 15px 40px;
 }
 
 .title-section {
@@ -112,7 +111,7 @@ p {
   background-color: rgb(35, 175, 240);
 }
 .etichetta.viola {
-  background-color: rgb(176, 20, 190);
+  background-color: rgb(170, 44, 219);
 }
 .etichetta.verde.acqua {
   background-color: rgb(28, 192, 170);
