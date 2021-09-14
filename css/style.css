@@ -129,3 +129,13 @@ p {
 .etichetta.azzurra {
   background-color: rgb(35, 175, 240);
 }
+
+.non-fatto::before {
+content: '\29BB';
+color: rgb(240, 35, 178);
+}
+
+.fatto::before {
+  content: '✓';
+  color: rgb(28, 192, 170);
+  }
