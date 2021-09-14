@@ -2,13 +2,20 @@
   box-sizing: border-box;
   margin: 0px;
   border: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
+
+ body {
+   background-color: rgb(248, 248, 248);
+ }
+
 
 /* Headr style */
 
 header {
-  margin-left: 20px;
-  margin-top: 15px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: white;
 }
 
@@ -16,10 +23,68 @@ header {
   width: auto;
   height: 50px;
   vertical-align: middle;
+ 
 }
 
 .title-header {
   font-size: 40px;
   font-weight: 800;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 50px;
+  vertical-align: middle;
+}
+
+/* Stili Main */
+
+.general-conteiner {
+  border-radius: 5px 5px 0px 0px;
+  margin: auto;
+  margin-top: 50px;
+  border-bottom: 3px solid rgb(248, 248, 248);
+  width: 70%;
+  background-color: white;
+ 
+}
+
+.conteiner-pulsanti-richiesta {
+  padding: 10px 40px;
+}
+
+
+button {
+  padding: 7px 7px;
+  border-radius: 5px;
+  font-weight: 530;
+  }
+
+
+#button-add {
+  background-color: rgb(35, 175, 240);
+  color: white;
+}
+
+#button-section {
+  border: 2px solid rgb(248, 241, 241);
+  background-color: white;
+  color: lightgrey;
+}
+
+.prospect-conteiner {
+  width: 70%;
+  margin: 30px auto 0px;
+  background-color: white;
+  border-radius: 0px 0px 5px 5px;
+  padding: 10px 40px;
+}
+
+.prospect-conteiner {
+  border-radius: 0px 0px 5px 5px;
+  margin: auto;
+  margin-bottom: 50px;
+  width: 70%;
+  background-color: white;
+ 
+}
+
+.contenitore-impegni {
+  padding: 10px 40px;
 }
